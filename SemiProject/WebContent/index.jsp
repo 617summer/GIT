@@ -13,8 +13,10 @@
 	COMMIT 4
 
 	COMMIT 5
-
+		
 	<fotter>푸터추가</fotter>
-
+	<script>
+		console.log("Hello vs-code^^*");
+	</script>
 </body>
 </html>
