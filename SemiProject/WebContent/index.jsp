@@ -17,6 +17,7 @@
 	<fotter>푸터추가</fotter>
 	<script>
 		console.log("Hello vs-code^^*");
+		alert("hello , git copy");
 	</script>
 </body>
 </html>
